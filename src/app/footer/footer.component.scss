@@ -1,0 +1,22 @@
+.footer-content{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    a{
+
+        text-decoration: none;
+        font-family: Inter;
+        font-size: 18px;
+        color: #6c757d;
+    }
+}
+
+
+.footer1{
+
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
